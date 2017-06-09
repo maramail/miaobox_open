@@ -5,4 +5,6 @@ Miaobox开发计划开源部分
 
 本项目使用unity5，以Puremvc为框架，使用sqlite作为数据保存方式。
 
+项目请执行login场景进入游戏。
+
 本项目的人员招募或技术咨询请参考网页 http://miaobox.cc/node/5 ，或进入企鹅群 451370617
